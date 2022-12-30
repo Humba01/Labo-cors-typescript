@@ -1,0 +1,2 @@
+# Labo-cors-typescript
+""
